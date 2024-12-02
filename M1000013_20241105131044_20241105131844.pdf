@@ -1,0 +1,802 @@
+%PDF-1.4
+%ª»ÌÝ
+1 0 obj
+<<
+/Creator (Frigga)
+/Producer (Frigga V1.00)
+/Title (Frigga Report)
+/Author (Frigga)
+/Subject (Subject)
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /SimSun
+/Encoding /GB-EUC-H
+/DescendantFonts [ 5 0 R ]
+>>
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType0
+/BaseFont /SimSun
+/DW 1000
+/DW2 [ 880 -1000 ]
+/W [ 668 [ 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 ] 696 [ 500 500 500 500 ] 814 [ 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 ] 7716 [ 500 ] ]
+/FontDescriptor 6 0 R
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (GB1)
+/Supplement 0
+>>
+>>
+endobj
+
+6 0 obj
+<<
+/Type /FontDescriptor
+/FontName /SimSun
+/Ascent 859
+/Descent -140
+/CapHeight 683
+/MissingWidth 500
+/Flags 7
+/FontBBox [ 0 -140 996 855 ]
+/ItalicAngle 0
+/StemV 78
+>>
+endobj
+
+9 0 obj
+<</Length 10 0 R>>
+stream
+0.0 0.0 0.0 RG
+0.5 w
+55.0 795.0 m
+85.0 795.0 l
+89.0 794.0 90.0 790.0 v
+90.0 760.0 l
+89.0 756.0 85.0 755.0 v
+55.0 755.0 l
+51.0 756.0 50.0 760.0 v
+50.0 790.0 l
+51.0 794.0 55.0 795.0 v
+1.0 0.0 0.0 rg
+f
+1.0 1.0 1.0 RG
+1.5 w
+60.0 787.8 m
+73.3 787.8 l
+80.0 781.5 l
+80.0 762.2 l
+60.0 762.2 l
+60.0 788.5 l
+S
+73.3 787.8 m
+73.3 781.5 l
+80.0 781.5 l
+1.0 1.0 1.0 rg
+f
+0.1 w
+52.2 780.6 m
+87.8 780.6 l
+87.8 769.4 l
+52.2 769.4 l
+52.2 780.6 l
+1.0 1.0 1.0 rg
+f
+BT
+53.2 771.4 Td
+/F1 10 Tf
+1.0 0.0 0.0 rg
+(ALARM) Tj
+ET
+BT
+95.0 787.0 Td
+/F1 10 Tf
+0.0 0.0 0.0 rg
+(File Created Date: 05-11-24 13:18:44) Tj
+0.0 -30.0 Td
+/F1 29 Tf
+1.0 0.40 0.0 rg
+(Frigga  Data Report) Tj
+ET
+BT
+178.0 772.0 Td
+/F1 8 Tf
+1.0 0.40 0.0 rg
+<AE> Tj
+ET
+BT
+451.0 782.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Temp Low  Alarm:              0) Tj
+0.0 -15.0 Td
+(Temp High Alarm:              1) Tj
+0.0 -15.0 Td
+(Data	  Points:                      9) Tj
+0.0 -15.0 Td
+(Stop Mode:                    USB) Tj
+ET
+BT
+50.0 732.0 Td
+/F1 8 Tf
+0.0 0.0 1.0 rg
+(Note: All times shown are based on UTC+5:30 24-Hour clock,[DD-MM-YY HH:MM:SS]) Tj
+ET
+BT
+307.5 682.0 Td
+/F1 12 Tf
+1.0 0.40 0.0 rg
+(Device Configuration) Tj
+ET
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+307.5 672.0 m
+545.0 672.0 l
+S
+BT
+307.5 652.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Start Delay: ) Tj
+95.0 0.0 Td
+(0 Min) Tj
+-95.0 -20.0 Td
+/F1 8 Tf
+(Log Interval:) Tj
+95.0 0.0 Td
+(1 Min) Tj
+-95.0 -20.0 Td
+/F1 8 Tf
+(Start Time:) Tj
+95.0 0.0 Td
+/F1 8 Tf
+(05-11-24 13:10:44) Tj
+-95.0 -20.0 Td
+/F1 8 Tf
+(End Time:) Tj
+95.0 0.0 Td
+(05-11-24 13:18:44) Tj
+ET
+BT
+307.5 572.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Shipment Note:) Tj
+95.0 0.0 Td
+/F3 8 Tf
+<B6EDB0C2B9C5CBB9CCD8BECDB5C8CDACD3DABEDFCCE5202020202020202020202020> Tj
+0.0 -10.0 Td
+/F3 8 Tf
+() Tj
+0.0 -10.0 Td
+/F3 8 Tf
+() Tj
+0.0 -10.0 Td
+/F3 8 Tf
+() Tj
+ET
+BT
+50.0 682.0 Td
+/F1 12 Tf
+1.0 0.40 0.0 rg
+(Device Information) Tj
+ET
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+50.0 672.0 m
+287.5 672.0 l
+S
+BT
+50.0 652.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Device ID:) Tj
+95.0 0.0 Td
+(M1000013) Tj
+-95.0 -20.0 Td
+(Device Model:) Tj
+95.0 0.0 Td
+(M2E) Tj
+-95.0 -20.0 Td
+(Firmware Version:) Tj
+95.0 0.0 Td
+(1) Tj
+-95.0 -20.0 Td
+(Hardware Version:) Tj
+95.0 0.0 Td
+(V1) Tj
+-95.0 -20.0 Td
+(Shipment ID: ) Tj
+95.0 0.0 Td
+/F3 8 Tf
+<C8E7C9CFCDBCBAC3B5C4CDACD2BBCCECBFC6BCBCBDCCD3FDBFCE75> Tj
+0.0 -10.0 Td
+/F3 8 Tf
+() Tj
+ET
+BT
+50.0 549.0 Td
+/F1 12 Tf
+1.0 0.40 0.0 rg
+(Logging Summary) Tj
+ET
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+50.0 539.0 m
+545.0 539.0 l
+S
+BT
+50.0 519.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Threshold(Low~High):) Tj
+95.0 0.0 Td
+/F1 8 Tf
+<2D302E35B0437E302E35B043> Tj
+162.5 0.0 Td
+/F1 8 Tf
+(Data Points:) Tj
+95.0 0.0 Td
+(9) Tj
+-352.5 -20.0 Td
+(Highest Temperature:) Tj
+95.0 0.0 Td
+/F1 8 Tf
+<32362E38B043202830352D31312D32342031333A31303A343429> Tj
+162.5 0.0 Td
+/F1 8 Tf
+(Lowest Temperature:) Tj
+95.0 0.0 Td
+/F1 8 Tf
+<32352E32B043202830352D31312D32342031333A31373A343429> Tj
+-352.5 -20.0 Td
+/F1 8 Tf
+(MKT:) Tj
+95.0 0.0 Td
+/F1 8 Tf
+<32352E34B043> Tj
+162.5 0.0 Td
+/F1 8 Tf
+(Average Temperature:) Tj
+95.0 0.0 Td
+/F1 8 Tf
+<32352E35B043> Tj
+ET
+BT
+50.0 462.0 Td
+/F1 12 Tf
+1.0 0.40 0.0 rg
+(Data Summary) Tj
+ET
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+50.0 452.0 m
+545.0 452.0 l
+S
+BT
+50.0 432.0 Td
+/F1 10 Tf
+0.0 0.0 0.0 rg
+(Alarm Type) Tj
+140.0 0.0 Td
+(Total Events) Tj
+130.0 0.0 Td
+(Longest Time) Tj
+130.0 0.0 Td
+(Total Time) Tj
+ET
+BT
+50.0 412.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Temp-Low) Tj
+165.0 0.0 Td
+(0) Tj
+125.0 0.0 Td
+(0s) Tj
+125.0 0.0 Td
+(0s) Tj
+ET
+BT
+50.0 392.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(Temp-High) Tj
+165.0 0.0 Td
+(1) Tj
+125.0 0.0 Td
+(8m0s) Tj
+125.0 0.0 Td
+(8m0s) Tj
+ET
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+50.0 382.0 m
+545.0 382.0 l
+S
+BT
+50.0 322.0 Td
+/F1 12 Tf
+1.0 0.40 0.0 rg
+(Record Chart) Tj
+ET
+0.0 0.0 0.0 rg
+BT
+62.0 142.0 Td
+/F1 15 Tf
+0 1 -1 0 62.0 142.0 Tm
+<54656D70657261747572652820B04329> Tj
+ET
+BT
+281.5 24.0 Td
+/F1 15 Tf
+(Time) Tj
+ET
+BT
+456.8 34.0 Td
+/F1 6 Tf
+(Temperature Sensor) Tj
+ET
+0.0 0.0 1.0 RG
+[] 0 d
+0.8 w
+416.8 37.0 m
+451.8 37.0 l
+S
+1.0 0.0 0.0 RG
+[3 ] 1 d
+0.8 w
+416.8 29.0 m
+451.8 29.0 l
+S
+BT
+456.8 26.0 Td
+/F1 6 Tf
+(Temperature Threshold) Tj
+ET
+BT
+/F1 6 Tf
+80.0 54.0 Td
+(13:10) Tj
+-5.0 -10.0 Td
+(05.11.2024) Tj
+58.1 10.0 Td
+(13:11) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:12) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:13) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:14) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:15) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:16) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:17) Tj
+0.0 -10.0 Td
+(05.11) Tj
+53.1 10.0 Td
+(13:18) Tj
+-5.0 -10.0 Td
+(05.11.2024) Tj
+ET
+BT
+/F1 8 Tf
+65.0 290.0 Td
+( 29.6) Tj
+0.0 -22.8 Td
+( 26.3) Tj
+0.0 -22.8 Td
+( 23.0) Tj
+0.0 -22.8 Td
+( 19.7) Tj
+0.0 -22.8 Td
+( 16.4) Tj
+0.0 -22.8 Td
+( 13.1) Tj
+0.0 -22.8 Td
+(   9.8) Tj
+0.0 -22.8 Td
+(   6.5) Tj
+0.0 -22.8 Td
+(   3.2) Tj
+0.0 -22.8 Td
+(  -0.1) Tj
+0.0 -22.8 Td
+(  -3.4) Tj
+ET
+0.5 w
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+85.0 292.0 m
+509.8 292.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 269.2 m
+509.8 269.2 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 246.4 m
+509.8 246.4 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 223.6 m
+509.8 223.6 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 200.8 m
+509.8 200.8 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 178.0 m
+509.8 178.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 155.2 m
+509.8 155.2 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 132.4 m
+509.8 132.4 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 109.6 m
+509.8 109.6 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.0 w
+85.0 86.8 m
+509.8 86.8 l
+S
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+85.0 64.0 m
+509.8 64.0 l
+S
+1.0 0.0 0.0 RG
+[3 ] 1 d
+0.4 w
+85.0 84.1 m
+509.8 84.1 l
+S
+1.0 0.0 0.0 RG
+[3 ] 1 d
+0.4 w
+85.0 91.0 m
+509.8 91.0 l
+S
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+85.0 292.0 m
+85.0 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+138.1 292.0 m
+138.1 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+191.2 292.0 m
+191.2 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+244.3 292.0 m
+244.3 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+297.4 292.0 m
+297.4 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+350.5 292.0 m
+350.5 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+403.6 292.0 m
+403.6 64.0 l
+S
+0.82 0.82 0.82 RG
+[3 ] 1 d
+0.2 w
+456.7 292.0 m
+456.7 64.0 l
+S
+0.0 0.0 0.0 RG
+[] 0 d
+0.5 w
+509.8 292.0 m
+509.8 64.0 l
+S
+0.7 w
+0.0 0.0 1.0 RG
+85.0 272.7 m
+138.1 265.8 l
+191.2 265.1 l
+244.3 263.7 l
+297.4 263.0 l
+350.5 262.3 l
+403.6 262.3 l
+456.7 261.6 l
+509.8 261.6 l
+S
+0.0 g
+0.0 G
+0.0 0.0 0.0 RG
+[3 ] 1 d
+0.5 w
+50.0 23.0 m
+545.0 23.0 l
+S
+BT
+55.0 13.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(www.friggatech.com) Tj
+ET
+BT
+530.0 13.0 Td
+/F1 8 Tf
+(1/2) Tj
+ET
+endstream
+endobj
+
+10 0 obj
+6945
+endobj
+
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 9 0 R
+/Resources <<
+/ProcSet [/PDF /TEXT /ImageB /ImageC /ImageI]
+/Font <<
+/F1 2 0 R
+/F2 3 0 R
+/F3 4 0 R
+>>
+>>
+/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+
+12 0 obj
+<</Length 13 0 R>>
+stream
+0.0 0.0 0.0 RG
+[3 ] 1 d
+0.5 w
+50.0 23.0 m
+545.0 23.0 l
+S
+BT
+55.0 13.0 Td
+/F1 8 Tf
+0.0 0.0 0.0 rg
+(www.friggatech.com) Tj
+ET
+BT
+530.0 13.0 Td
+/F1 8 Tf
+(2/2) Tj
+ET
+[] 0 d
+1.0 w
+0.0 0.0 0.0 RG
+50.0 26.0 m
+545.0 26.0 l
+545.0 816.0 l
+50.0 816.0 l
+50.0 26.0 l
+S
+50.0 801.0 m
+545.0 801.0 l
+132.5 816.0 m
+132.5 26.0 l
+215.0 816.0 m
+215.0 26.0 l
+297.5 816.0 m
+297.5 26.0 l
+380.0 816.0 m
+380.0 26.0 l
+462.5 816.0 m
+462.5 26.0 l
+S
+BT
+/F1 6 Tf
+53.0 803.0 Td
+<20204461746520202020202020202054696D652020202020202020202020B043> Tj
+82.5 0.0 Td
+<20204461746520202020202020202054696D652020202020202020202020B043> Tj
+82.5 0.0 Td
+<20204461746520202020202020202054696D652020202020202020202020B043> Tj
+82.5 0.0 Td
+<20204461746520202020202020202054696D652020202020202020202020B043> Tj
+82.5 0.0 Td
+<20204461746520202020202020202054696D652020202020202020202020B043> Tj
+82.5 0.0 Td
+<20204461746520202020202020202054696D652020202020202020202020B043> Tj
+82.5 0.0 Td
+ET
+BT
+/F1 6 Tf
+51.0 794.0 Td
+( 05-11-24   13:10:44     26.8) Tj
+0.0 -7.0 Td
+( 05-11-24   13:11:44     25.8) Tj
+0.0 -7.0 Td
+( 05-11-24   13:12:44     25.7) Tj
+0.0 -7.0 Td
+( 05-11-24   13:13:44     25.5) Tj
+0.0 -7.0 Td
+( 05-11-24   13:14:44     25.4) Tj
+0.0 -7.0 Td
+( 05-11-24   13:15:44     25.3) Tj
+0.0 -7.0 Td
+( 05-11-24   13:16:44     25.3) Tj
+0.0 -7.0 Td
+( 05-11-24   13:17:44     25.2) Tj
+0.0 -7.0 Td
+( 05-11-24   13:18:44     25.2) Tj
+0.0 -7.0 Td
+ET
+endstream
+endobj
+
+13 0 obj
+1470
+endobj
+
+11 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Contents 12 0 R
+/Resources <<
+/ProcSet [/PDF /TEXT /ImageB /ImageC /ImageI]
+/Font <<
+/F1 2 0 R
+/F2 3 0 R
+/F3 4 0 R
+>>
+>>
+/MediaBox [ 0 0 595 842 ]
+>>
+endobj
+
+14 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/Metadata 15 0 R
+>> 
+endobj
+
+15 0 obj
+<<
+/Length 16 0 R
+/Type /Metadata
+/SubType /XML
+>> 
+stream
+<?xpacket begin='' id='5300646133692948168L'?><x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'><rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'><rdf:Description xmlns:pdf='http://ns.adobe.com/pdf/1.3/' rdf:about=''><pdf:Producer>Frigga V1.00</pdf:Producer></rdf:Description><rdf:Description rdf:about='' xmlns:pdfaid='http://www.aiim.org/pdfa/ns/id/' pdfaid:part='1' pdfaid:conformance='A'/></rdf:RDF></x:xmpmeta><?xpacket end='w'?>
+endstream
+endobj
+
+16 0 obj
+522 
+endobj
+
+7 0 obj
+<<
+/Type /Pages
+/Kids [ 8 0 R 11 0 R ]
+/Count 2
+>>
+endobj
+
+xref
+0 17
+0000000000 65535 f
+0000000017 00000 n
+0000000151 00000 n
+0000000258 00000 n
+0000000370 00000 n
+0000000495 00000 n
+0000001250 00000 n
+0000011180 00000 n
+0000008478 00000 n
+0000001449 00000 n
+0000008452 00000 n
+0000010245 00000 n
+0000008690 00000 n
+0000010219 00000 n
+0000010459 00000 n
+0000010536 00000 n
+0000011154 00000 n
+trailer
+<<
+/Size 17
+/Root 14 0 R
+/Info 1 0 R
+>>
+startxref
+11255
+%%EOF
